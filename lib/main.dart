@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Authentication App',
+      title: 'My-First-App',
       theme: ThemeData(
         // Define the app's color scheme
         primarySwatch: Colors.blue,
